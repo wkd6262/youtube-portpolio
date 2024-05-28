@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Channel = () => {
   return (
-    <div>
-      <h1>ch</h1>
-    </div>
+    <Main>
+      <h1>Channel</h1>
+    </Main>
   );
 };
 

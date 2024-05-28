@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Search = () => {
   return (
-    <div>
-      <h1>search</h1>
-    </div>
+    <Main>
+      <h1>Search</h1>
+    </Main>
   );
 };
 

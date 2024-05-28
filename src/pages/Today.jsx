@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Today = () => {
   return (
-    <div>
-      <h1>today</h1>
-    </div>
+    <Main>
+      <h1>Today</h1>
+    </Main>
   );
 };
 

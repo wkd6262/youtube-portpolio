@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Port = () => {
   return (
-    <div>
-      <h1>포트</h1>
-    </div>
+    <Main>
+      <h1>Port</h1>
+    </Main>
   );
 };
 

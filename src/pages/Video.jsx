@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Video = () => {
   return (
-    <div>
-      <h1>video</h1>
-    </div>
+    <Main>
+      <h1>Video</h1>
+    </Main>
   );
 };
 

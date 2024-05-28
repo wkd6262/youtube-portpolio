@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Not = () => {
   return (
-    <div>
-      <h1>Not</h1>
-    </div>
+    <Main>
+      <h1>not</h1>
+    </Main>
   );
 };
 

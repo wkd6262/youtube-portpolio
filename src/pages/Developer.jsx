@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Developer = () => {
   return (
-    <div>
-      <h1>devel</h1>
-    </div>
+    <Main>
+      <h1>Developer</h1>
+    </Main>
   );
 };
 

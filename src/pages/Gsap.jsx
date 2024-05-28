@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Gsap = () => {
   return (
-    <div>
-      <h1>gsap</h1>
-    </div>
+    <Main>
+      <h1>Gsap</h1>
+    </Main>
   );
 };
 

@@ -1,10 +1,11 @@
 import React from "react";
+import Main from "../components/section/Main";
 
 const Youtube = () => {
   return (
-    <div>
+    <Main>
       <h1>youtube</h1>
-    </div>
+    </Main>
   );
 };
 
