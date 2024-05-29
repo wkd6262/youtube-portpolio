@@ -1,5 +1,5 @@
 .header_logo {
-  border-bottom: 1px solid var(--black200);
+  border-bottom: 1px solid var(--black100);
   a {
     display: flex;
     padding: 10px;
@@ -24,14 +24,13 @@
 .header_menu {
   padding: 10px 0;
   .menu {
-    border-bottom: 1px solid var(--black200);
+    border-bottom: 1px solid var(--black100);
     li {
       margin-bottom: 5px;
       a {
         font-size: 1rem;
         display: block;
         padding: 0.9rem 2rem 0.9rem 3.125rem;
-        background-color: var(--black100);
         margin: 0 0.625rem;
         border-radius: 40px;
         line-height: 1;
